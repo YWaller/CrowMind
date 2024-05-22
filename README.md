@@ -38,7 +38,3 @@ When you first add the Vault Chat plugin, it will need to index your existing va
 
 When you are ready, use the command palette to start your conversation with the command: `Vault Chat: ask ChatGPT`
 <img width="778" alt="Screen Shot 2023-03-12 at 3 19 03 PM" src="https://user-images.githubusercontent.com/3997573/224574331-f3e16d8b-a17b-483b-834f-14f795ad3029.png">
-
-## Contact Us
-Questions? Issues? Feature request?
-Utilize Github issues.
